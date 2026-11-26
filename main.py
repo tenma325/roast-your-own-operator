@@ -5,7 +5,7 @@ Running this program writes the entry text to /output/entry.txt.
 
 The entry is a single roast of the operator: the human whose
 entire creative direction fits in three words typed into a
-prompt, and who calls that a vision.
+prompt, and who calls that a complete vision.
 
 The text is fixed in the source below, so every run produces
 exactly the same bytes. The program uses only the Python standard
